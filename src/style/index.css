@@ -1,0 +1,37 @@
+@tailwind base;
+
+@import url('https://fonts.googleapis.com/css?family=Barlow:400,500,600,700&display=swap');
+
+h1 {
+  @apply text-4xl leading-tight;
+}
+
+h3 {
+  @apply text-xl;
+}
+
+h4 {
+  @apply text-xl font-bold;
+}
+
+ol {
+  @apply list-decimal list-inside text-lg;
+}
+
+ol li {
+  @apply pb-2;
+}
+
+p {
+  @apply text-lg pb-2;
+}
+
+html, body {
+	background: #FAFAFA;
+	font-family: 'Barlow', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  
+}
+
+@tailwind components;
+@tailwind utilities;

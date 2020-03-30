@@ -1,0 +1,14 @@
+.home {
+	
+}
+
+.columns {
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+}
+
+.columns .column {
+  border: 2px solid black;
+  flex: 1;
+}
