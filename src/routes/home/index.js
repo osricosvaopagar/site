@@ -22,7 +22,7 @@ const Home = () => (
         <p>Precisamos de dinheiro para diminuir a impunidade e corrupção. Precisamos de dinheiro para melhorar nossa educação. Precisamos de dinheiro para qualificar nossos profissionais. Precisamos de dinheiro para que as pessoas tenham saneamento básico!</p>
         <h1 class="py-6">Essa é nossa hora de agir!</h1>
         <ol class="pb-6">
-          <li>Assine a petição para aumentar as alíquotas de IR para os milionários e bilionários brasileiros</li>
+          <li><a href="https://secure.avaaz.org/en/community_petitions/congresso_nacional_os_ricos_vao_pagar_pelo_aumento_do_ir_para_os_milionarios/details/">Assine a petição para aumentar as alíquotas de IR para os milionários e bilionários brasileiros</a></li>
           <li>Divulgue esse movimento no WhatsApp e nas redes sociais.</li>
           <li>Entre em contato com deputados e senadores para que essa discussão aconteça o mais rápido possível</li>
         </ol>
